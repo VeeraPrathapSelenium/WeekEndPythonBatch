@@ -1,0 +1,8 @@
+[QA]
+url=https://demo.nopcommerce.com/register
+username=user01
+password=pass1234
+[Dev]
+url=https://demo.nopcommerce.com/
+username=user0001
+password=pass123445678
