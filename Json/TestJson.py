@@ -1,0 +1,1 @@
+print("i am doing on my self wwith out checking updates")
